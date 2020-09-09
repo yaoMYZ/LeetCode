@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f5186e-16d4-4004-979c-2b07e9419d03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/257.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/347.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +30,7 @@
   <component name="ProjectId" id="1gS9kVgRCm3nmiZMommY91bQEir" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/Course/虚拟现实/作业/Pixel2Mesh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -40,8 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.051">
-    <configuration name="023" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.039">
+    <configuration name="032" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/023.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/032.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="051" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="033" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/051.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/033.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="486" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="039" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/486.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/039.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="845" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="077" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/845.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/077.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="offer20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="347" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/offer20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/347.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.051" />
-        <item itemvalue="Python.offer20" />
-        <item itemvalue="Python.486" />
-        <item itemvalue="Python.845" />
-        <item itemvalue="Python.023" />
+        <item itemvalue="Python.039" />
+        <item itemvalue="Python.033" />
+        <item itemvalue="Python.077" />
+        <item itemvalue="Python.347" />
+        <item itemvalue="Python.032" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599013014529</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加 051">
+      <created>1599103715676</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599103715676</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +244,7 @@
     <MESSAGE value="添加 023、557" />
     <MESSAGE value="添加 845" />
     <MESSAGE value="添加 486、offer20" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 486、offer20" />
+    <MESSAGE value="添加 051" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 051" />
   </component>
 </project>
