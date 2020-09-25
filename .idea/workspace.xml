@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f5186e-16d4-4004-979c-2b07e9419d03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/617.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/968.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/501.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +41,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.617">
-    <configuration name="070" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.106">
+    <configuration name="106" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/070.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/106.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="078" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="501" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/078.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/501.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.106" />
+        <item itemvalue="Python.501" />
         <item itemvalue="Python.617" />
         <item itemvalue="Python.968" />
         <item itemvalue="Python.538" />
-        <item itemvalue="Python.078" />
-        <item itemvalue="Python.070" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600658475030</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="添加 075、617、968">
+      <created>1600828994518</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600828994518</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +312,7 @@
     <MESSAGE value="添加 056、062、226" />
     <MESSAGE value="添加 064、070、404、685" />
     <MESSAGE value="添加 078、072、538" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 078、072、538" />
+    <MESSAGE value="添加 075、617、968" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 075、617、968" />
   </component>
 </project>
