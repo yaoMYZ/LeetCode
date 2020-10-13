@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69f5186e-16d4-4004-979c-2b07e9419d03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../430/ROP" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -364,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602472287588</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="添加 114">
+      <created>1602474915543</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602474915543</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,7 +412,8 @@
     <MESSAGE value="添加 096、344、098" />
     <MESSAGE value="添加 141" />
     <MESSAGE value="添加 101、102、104、105、142、530" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 101、102、104、105、142、530" />
+    <MESSAGE value="添加 114" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 114" />
   </component>
   <component name="WindowStateProjectService">
     <state x="422" y="156" key="FileChooserDialogImpl" timestamp="1601626538617">
