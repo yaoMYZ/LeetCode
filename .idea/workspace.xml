@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69f5186e-16d4-4004-979c-2b07e9419d03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/169.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/198.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/200.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/234.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,26 +51,35 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../430/ROP" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Language\Python\LeetCode\LeetCode" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.200">
+  <component name="RunManager" selected="Python.1024">
+    <configuration name="1024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/1024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="152" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,34 +164,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="763" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/763.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1024" />
         <item itemvalue="Python.200" />
         <item itemvalue="Python.198" />
         <item itemvalue="Python.160" />
         <item itemvalue="Python.152" />
-        <item itemvalue="Python.763" />
       </list>
     </recent_temporary>
   </component>
@@ -426,13 +410,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加 486、offer20" />
@@ -467,22 +450,26 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="422" y="156" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1601626538617" />
-    <state width="1260" height="203" key="GridCell.Tab.0.bottom" timestamp="1601780331143">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.bottom" timestamp="1603512066006">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1601780331143" />
-    <state width="1260" height="203" key="GridCell.Tab.0.center" timestamp="1601780331143">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
+    <state width="2539" height="413" key="GridCell.Tab.0.center" timestamp="1603512066006">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1601780331143" />
-    <state width="1260" height="203" key="GridCell.Tab.0.left" timestamp="1601780331143">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
+    <state width="2539" height="413" key="GridCell.Tab.0.left" timestamp="1603512066006">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1601780331143" />
-    <state width="1260" height="203" key="GridCell.Tab.0.right" timestamp="1601780331143">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
+    <state width="2539" height="413" key="GridCell.Tab.0.right" timestamp="1603512066006">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1601780331143" />
+    <state width="2539" height="413" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
     <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1601780322178">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -499,9 +486,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1601780322178" />
-    <state x="142" y="45" key="SettingsEditor" timestamp="1601626544815">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="438" y="245" key="SettingsEditor" timestamp="1603510924050">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="142" y="45" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1601626544815" />
+    <state x="438" y="245" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1603510924050" />
   </component>
 </project>
