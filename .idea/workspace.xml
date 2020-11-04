@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69f5186e-16d4-4004-979c-2b07e9419d03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/297.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/941.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/300.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,8 +70,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.297">
-    <configuration name="140" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.300">
+    <configuration name="057" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/140.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/057.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="463" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="300" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/463.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/300.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.300" />
+        <item itemvalue="Python.057" />
         <item itemvalue="Python.297" />
         <item itemvalue="Python.941" />
         <item itemvalue="Python.283" />
-        <item itemvalue="Python.140" />
-        <item itemvalue="Python.463" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604287827671</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="添加 941、297">
+      <created>1604372757462</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1604372757462</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,7 +487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加 056、062、226" />
     <MESSAGE value="添加 064、070、404、685" />
     <MESSAGE value="添加 078、072、538" />
     <MESSAGE value="添加 075、617、968" />
@@ -505,7 +511,8 @@
     <MESSAGE value="添加 129、240、463、279" />
     <MESSAGE value="添加 140、283" />
     <MESSAGE value="添加 349" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 349" />
+    <MESSAGE value="添加 941、297" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 941、297" />
   </component>
   <component name="WindowStateProjectService">
     <state x="422" y="156" key="FileChooserDialogImpl" timestamp="1601626538617">
