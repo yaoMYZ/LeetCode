@@ -20,12 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69f5186e-16d4-4004-979c-2b07e9419d03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/337.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/338.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/973.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/148.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/148.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../430/IncrementalLearning/MyIL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -59,20 +59,8 @@
       <recent name="E:\Language\Python\LeetCode\LeetCode" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.338">
-    <configuration name="122" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.148">
+    <configuration name="148" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/122.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/148.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.148" />
         <item itemvalue="Python.338" />
         <item itemvalue="Python.337" />
         <item itemvalue="Python.973" />
         <item itemvalue="Python.322" />
-        <item itemvalue="Python.122" />
       </list>
     </recent_temporary>
   </component>
@@ -500,13 +488,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加 501、106" />
@@ -541,46 +528,57 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="422" y="156" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1601626538617" />
-    <state width="2539" height="413" key="GridCell.Tab.0.bottom" timestamp="1603512066006">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1260" height="252" key="GridCell.Tab.0.bottom" timestamp="1605951616441">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1601780331143" />
+    <state width="1260" height="252" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
     <state width="2539" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
-    <state width="2539" height="413" key="GridCell.Tab.0.center" timestamp="1603512066006">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1260" height="252" key="GridCell.Tab.0.center" timestamp="1605951616441">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1601780331143" />
+    <state width="1260" height="252" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
     <state width="2539" height="413" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
-    <state width="2539" height="413" key="GridCell.Tab.0.left" timestamp="1603512066006">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1260" height="252" key="GridCell.Tab.0.left" timestamp="1605951616441">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1601780331143" />
+    <state width="1260" height="252" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
     <state width="2539" height="413" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
-    <state width="2539" height="413" key="GridCell.Tab.0.right" timestamp="1603512066006">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1260" height="252" key="GridCell.Tab.0.right" timestamp="1605951616441">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1601780331143" />
+    <state width="1260" height="252" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
     <state width="2539" height="413" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1601780322178">
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1605951616441">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1601780322178" />
-    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1601780322178">
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
+    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1605951616441">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1601780322178" />
-    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1601780322178">
+    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
+    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1605951616441">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1601780322178" />
-    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1601780322178">
+    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
+    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1605951616441">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1601780322178" />
+    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
     <state x="438" y="245" key="SettingsEditor" timestamp="1603510924050">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="142" y="45" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1601626544815" />
     <state x="438" y="245" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1603510924050" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode/148.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -49,24 +49,51 @@ class ListNode(object):
 #         self.__quick_sort(arr,sidx,head-1)
 #         self.__quick_sort(arr,head+1,eidx)
 
+# class Solution:
+#     def sortList(self, head):
+#         if not head or not head.next: return head # termination.
+#         # cut the LinkedList at the mid index.
+#         slow, fast = head, head.next
+#         while fast and fast.next:
+#             fast, slow = fast.next.next, slow.next
+#         mid, slow.next = slow.next, None # save and cut.
+#         # recursive for cutting.
+#         left, right = self.sortList(head), self.sortList(mid)
+#         # merge `left` and `right` linked list and return it.
+#         h = res = ListNode(0)
+#         while left and right:
+#             if left.val < right.val: h.next, left = left, left.next
+#             else: h.next, right = right, right.next
+#             h = h.next
+#         h.next = left if left else right
+#         return res.next
+
+
 class Solution:
     def sortList(self, head):
-        if not head or not head.next: return head # termination.
-        # cut the LinkedList at the mid index.
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        if head==None or head.next==None:
+            return head
         slow, fast = head, head.next
         while fast and fast.next:
-            fast, slow = fast.next.next, slow.next
-        mid, slow.next = slow.next, None # save and cut.
-        # recursive for cutting.
+            slow, fast = slow.next, fast.next.next
+        mid = slow.next
+        slow.next = None
         left, right = self.sortList(head), self.sortList(mid)
-        # merge `left` and `right` linked list and return it.
-        h = res = ListNode(0)
+        new_head = res = ListNode(-1)
         while left and right:
-            if left.val < right.val: h.next, left = left, left.next
-            else: h.next, right = right, right.next
-            h = h.next
-        h.next = left if left else right
-        return res.next
+            if left.val<right.val:
+                new_head.next = left
+                left = left.next
+            else:
+                new_head.next = right
+                right = right.next
+            new_head = new_head.next
+        new_head.next = right if left==None else left
+        return  res.next
 
 
 if __name__ == '__main__':
