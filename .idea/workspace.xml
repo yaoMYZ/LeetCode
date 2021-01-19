@@ -19,12 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69f5186e-16d4-4004-979c-2b07e9419d03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/1584.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/148.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/148.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/offer20.py" beforeDir="false" afterPath="$PROJECT_DIR$/offer/offer20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +39,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectId" id="1gS9kVgRCm3nmiZMommY91bQEir" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1nGbVtGmMIBeXR8EwphCNbPrnyR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,15 +49,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Language\Python\LeetCode\LeetCode" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Language\Python\LeetCode\offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.148">
-    <configuration name="148" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="1584" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,91 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/148.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="322" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/322.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="337" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/337.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="338" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/338.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="973" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/973.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/1584.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.148" />
-        <item itemvalue="Python.338" />
-        <item itemvalue="Python.337" />
-        <item itemvalue="Python.973" />
-        <item itemvalue="Python.322" />
+        <item itemvalue="Python.1584" />
       </list>
     </recent_temporary>
   </component>
@@ -180,307 +88,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="69f5186e-16d4-4004-979c-2b07e9419d03" name="Default Changelist" comment="" />
-      <created>1598097269887</created>
+      <changelist id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="" />
+      <created>1611019401315</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598097269887</updated>
+      <updated>1611019401315</updated>
     </task>
-    <task id="LOCAL-00001" summary="添加 011、017和332">
-      <created>1598498718811</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1598498718811</updated>
-    </task>
-    <task id="LOCAL-00002" summary="添加 015">
-      <created>1598509058956</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1598509058956</updated>
-    </task>
-    <task id="LOCAL-00003" summary="添加 020、021、022、657">
-      <created>1598585159999</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1598585159999</updated>
-    </task>
-    <task id="LOCAL-00004" summary="添加 023、557">
-      <created>1598771048852</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1598771048852</updated>
-    </task>
-    <task id="LOCAL-00005" summary="添加 845">
-      <created>1598839227339</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1598839227339</updated>
-    </task>
-    <task id="LOCAL-00006" summary="添加 486、offer20">
-      <created>1599013014529</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1599013014529</updated>
-    </task>
-    <task id="LOCAL-00007" summary="添加 051">
-      <created>1599103715676</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1599103715676</updated>
-    </task>
-    <task id="LOCAL-00008" summary="添加 032、033、039、077、257、347">
-      <created>1599616408116</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1599616408116</updated>
-    </task>
-    <task id="LOCAL-00009" summary="添加 034、042">
-      <created>1599649969493</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1599649969493</updated>
-    </task>
-    <task id="LOCAL-00010" summary="添加 040、046、048、079、216">
-      <created>1599965776152</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1599965776152</updated>
-    </task>
-    <task id="LOCAL-00011" summary="添加 049、053">
-      <created>1599981952802</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1599981952802</updated>
-    </task>
-    <task id="LOCAL-00012" summary="添加 037、055、094">
-      <created>1600160836830</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1600160836830</updated>
-    </task>
-    <task id="LOCAL-00013" summary="添加 056、062、226">
-      <created>1600237443726</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1600237443726</updated>
-    </task>
-    <task id="LOCAL-00014" summary="添加 064、070、404、685">
-      <created>1600489873346</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1600489873346</updated>
-    </task>
-    <task id="LOCAL-00015" summary="添加 078、072、538">
-      <created>1600658475030</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1600658475030</updated>
-    </task>
-    <task id="LOCAL-00016" summary="添加 075、617、968">
-      <created>1600828994518</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1600828994518</updated>
-    </task>
-    <task id="LOCAL-00017" summary="添加 501、106">
-      <created>1601002075603</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1601002075603</updated>
-    </task>
-    <task id="LOCAL-00018" summary="添加 771、LCP19">
-      <created>1601626692619</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1601626692619</updated>
-    </task>
-    <task id="LOCAL-00019" summary="添加 145">
-      <created>1601861328634</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1601861328634</updated>
-    </task>
-    <task id="LOCAL-00020" summary="添加 018">
-      <created>1601878985766</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1601878985766</updated>
-    </task>
-    <task id="LOCAL-00021" summary="添加 834">
-      <created>1601968104194</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1601968104194</updated>
-    </task>
-    <task id="LOCAL-00022" summary="添加 096、344、098">
-      <created>1602143784175</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1602143784175</updated>
-    </task>
-    <task id="LOCAL-00023" summary="添加 141">
-      <created>1602206546080</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1602206546081</updated>
-    </task>
-    <task id="LOCAL-00024" summary="添加 101、102、104、105、142、530">
-      <created>1602472287588</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1602472287588</updated>
-    </task>
-    <task id="LOCAL-00025" summary="添加 114">
-      <created>1602474915543</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1602474915543</updated>
-    </task>
-    <task id="LOCAL-00026" summary="添加 024">
-      <created>1602589435945</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1602589435945</updated>
-    </task>
-    <task id="LOCAL-00027" summary="添加 1002、121、116、124">
-      <created>1602753399294</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1602753399294</updated>
-    </task>
-    <task id="LOCAL-00028" summary="添加 977、128、136">
-      <created>1602824654058</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1602824654058</updated>
-    </task>
-    <task id="LOCAL-00029" summary="添加 019、139、146、844">
-      <created>1603084271577</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1603084271577</updated>
-    </task>
-    <task id="LOCAL-00030" summary="添加 019、139、146、844">
-      <created>1603162487846</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1603162487846</updated>
-    </task>
-    <task id="LOCAL-00031" summary="添加 152、763、925">
-      <created>1603359238599</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1603359238600</updated>
-    </task>
-    <task id="LOCAL-00032" summary="添加 206、207、845-1">
-      <created>1603614870262</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1603614870262</updated>
-    </task>
-    <task id="LOCAL-00033" summary="添加 208、1365">
-      <created>1603683580483</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1603683580483</updated>
-    </task>
-    <task id="LOCAL-00034" summary="添加 144、215、221">
-      <created>1603769136745</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1603769136745</updated>
-    </task>
-    <task id="LOCAL-00035" summary="添加 236、238、239、1207">
-      <created>1603856508325</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1603856508325</updated>
-    </task>
-    <task id="LOCAL-00036" summary="添加 129、240、463、279">
-      <created>1604044802400</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1604044802401</updated>
-    </task>
-    <task id="LOCAL-00037" summary="添加 140、283">
-      <created>1604212396617</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1604212396618</updated>
-    </task>
-    <task id="LOCAL-00038" summary="添加 349">
-      <created>1604287827671</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1604287827671</updated>
-    </task>
-    <task id="LOCAL-00039" summary="添加 941、297">
-      <created>1604372757462</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1604372757462</updated>
-    </task>
-    <task id="LOCAL-00040" summary="添加 057、300">
-      <created>1604459858767</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1604459858767</updated>
-    </task>
-    <task id="LOCAL-00041" summary="添加 1356、309">
-      <created>1604637951345</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1604637951346</updated>
-    </task>
-    <task id="LOCAL-00042" summary="添加 122、312、322、327">
-      <created>1604820995950</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1604820995951</updated>
-    </task>
-    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,92 +106,43 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加 501、106" />
-    <MESSAGE value="添加 771、LCP19" />
-    <MESSAGE value="添加 145" />
-    <MESSAGE value="添加 018" />
-    <MESSAGE value="添加 834" />
-    <MESSAGE value="添加 096、344、098" />
-    <MESSAGE value="添加 141" />
-    <MESSAGE value="添加 101、102、104、105、142、530" />
-    <MESSAGE value="添加 114" />
-    <MESSAGE value="添加 024" />
-    <MESSAGE value="添加 1002、121、116、124" />
-    <MESSAGE value="添加 977、128、136" />
-    <MESSAGE value="添加 019、139、146、844" />
-    <MESSAGE value="添加 152、763、925" />
-    <MESSAGE value="添加 206、207、845-1" />
-    <MESSAGE value="添加 208、1365" />
-    <MESSAGE value="添加 144、215、221" />
-    <MESSAGE value="添加 236、238、239、1207" />
-    <MESSAGE value="添加 129、240、463、279" />
-    <MESSAGE value="添加 140、283" />
-    <MESSAGE value="添加 349" />
-    <MESSAGE value="添加 941、297" />
-    <MESSAGE value="添加 057、300" />
-    <MESSAGE value="添加 1356、309" />
-    <MESSAGE value="添加 122、312、322、327" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 122、312、322、327" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="156" key="FileChooserDialogImpl" timestamp="1601626538617">
+    <state width="1260" height="203" key="GridCell.Tab.0.bottom" timestamp="1611025798183">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="422" y="156" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1601626538617" />
-    <state width="1260" height="252" key="GridCell.Tab.0.bottom" timestamp="1605951616441">
+    <state width="1260" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1611025798183" />
+    <state width="1260" height="203" key="GridCell.Tab.0.center" timestamp="1611025798183">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
-    <state width="2539" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
-    <state width="1260" height="252" key="GridCell.Tab.0.center" timestamp="1605951616441">
+    <state width="1260" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1611025798183" />
+    <state width="1260" height="203" key="GridCell.Tab.0.left" timestamp="1611025798183">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
-    <state width="2539" height="413" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
-    <state width="1260" height="252" key="GridCell.Tab.0.left" timestamp="1605951616441">
+    <state width="1260" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1611025798183" />
+    <state width="1260" height="203" key="GridCell.Tab.0.right" timestamp="1611025798183">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
-    <state width="2539" height="413" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
-    <state width="1260" height="252" key="GridCell.Tab.0.right" timestamp="1605951616441">
+    <state width="1260" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1611025798183" />
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1611025761735">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
-    <state width="2539" height="413" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1603512066006" />
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1605951616441">
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1611025761735" />
+    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1611025761735">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
-    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1605951616441">
+    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1611025761735" />
+    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1611025761735">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
-    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1605951616441">
+    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1611025761735" />
+    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1611025761735">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
-    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1605951616441">
+    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1611025761735" />
+    <state x="304" y="123" width="672" height="678" key="search.everywhere.popup" timestamp="1611025515373">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1605951616441" />
-    <state x="438" y="245" key="SettingsEditor" timestamp="1603510924050">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="142" y="45" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1601626544815" />
-    <state x="438" y="245" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1603510924050" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode/148.py</url>
-          <line>105</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="304" y="123" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1611025515373" />
   </component>
 </project>
