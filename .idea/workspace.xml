@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/634.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/049.py" afterDir="false" />
+    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="添加offer049,634">
+      <change afterPath="$PROJECT_DIR$/LeetCode/1208.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/978.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer/offer20.py" beforeDir="false" afterPath="$PROJECT_DIR$/offer/020.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +54,8 @@
       <recent name="E:\Language\Python\LeetCode\offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.634">
-    <configuration name="1579" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.978">
+    <configuration name="1208" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/1579.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/1208.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,27 +118,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="724" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/724.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="778" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,13 +139,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="978" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/978.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.978" />
+        <item itemvalue="Python.1208" />
         <item itemvalue="Python.634" />
         <item itemvalue="Python.778" />
         <item itemvalue="Python.1631" />
-        <item itemvalue="Python.724" />
-        <item itemvalue="Python.1579" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +181,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611019401315</updated>
     </task>
+    <task id="LOCAL-00001" summary="添加offer049,634">
+      <created>1612407551462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612407551462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,46 +203,50 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加offer049,634" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加offer049,634" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1611449559933">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="421" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1611449559933" />
-    <state width="1260" height="252" key="GridCell.Tab.0.bottom" timestamp="1612406188502">
+    <state width="1260" height="203" key="GridCell.Tab.0.bottom" timestamp="1612790173933">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1612406188502" />
-    <state width="1260" height="252" key="GridCell.Tab.0.center" timestamp="1612406188502">
+    <state width="1260" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1612790173933" />
+    <state width="1260" height="203" key="GridCell.Tab.0.center" timestamp="1612790173933">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1612406188502" />
-    <state width="1260" height="252" key="GridCell.Tab.0.left" timestamp="1612406188501">
+    <state width="1260" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1612790173933" />
+    <state width="1260" height="203" key="GridCell.Tab.0.left" timestamp="1612790173933">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1612406188501" />
-    <state width="1260" height="252" key="GridCell.Tab.0.right" timestamp="1612406188502">
+    <state width="1260" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1612790173933" />
+    <state width="1260" height="203" key="GridCell.Tab.0.right" timestamp="1612790173933">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1612406188502" />
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1612406188502">
+    <state width="1260" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1612790173933" />
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1612495073338">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1612406188502" />
-    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1612406188502">
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1612495073338" />
+    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1612495073338">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1612406188502" />
-    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1612406188502">
+    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1612495073338" />
+    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1612495073338">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1612406188502" />
-    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1612406188502">
+    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1612495073338" />
+    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1612495073338">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1612406188502" />
-    <state x="305" y="124" width="672" height="678" key="search.everywhere.popup" timestamp="1612405884872">
+    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1612495073338" />
+    <state x="306" y="125" width="672" height="678" key="search.everywhere.popup" timestamp="1612495500350">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="305" y="124" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1612405884872" />
+    <state x="306" y="125" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1612495500350" />
   </component>
 </project>
