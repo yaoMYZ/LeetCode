@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="添加766、1052">
-      <change afterPath="$PROJECT_DIR$/LeetCode/896.py" afterDir="false" />
+    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="添加896">
+      <change afterPath="$PROJECT_DIR$/LeetCode/303.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614085030236</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加896">
+      <created>1614482480364</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614482480364</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +236,8 @@
     <MESSAGE value="添加561" />
     <MESSAGE value="添加1438" />
     <MESSAGE value="添加766、1052" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加766、1052" />
+    <MESSAGE value="添加896" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加896" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1611449559933">
