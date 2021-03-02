@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="添加896">
-      <change afterPath="$PROJECT_DIR$/LeetCode/303.py" afterDir="false" />
+    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="添加303">
+      <change afterPath="$PROJECT_DIR$/LeetCode/304.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MachineLearning/430projects/IncreamentalLearning/LSIL" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -54,7 +54,7 @@
       <recent name="E:\Language\Python\LeetCode\offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.896">
+  <component name="RunManager" selected="Python.304">
     <configuration name="1052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,6 +89,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/1438.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="304" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/304.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,34 +160,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="978" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/978.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.304" />
         <item itemvalue="Python.896" />
         <item itemvalue="Python.1052" />
         <item itemvalue="Python.1438" />
         <item itemvalue="Python.561" />
-        <item itemvalue="Python.978" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614482480364</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加303">
+      <created>1614582292004</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614582292004</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,53 +244,54 @@
     <MESSAGE value="添加1438" />
     <MESSAGE value="添加766、1052" />
     <MESSAGE value="添加896" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加896" />
+    <MESSAGE value="添加303" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加303" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1611449559933">
+    <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1614590089876">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="421" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1611449559933" />
-    <state width="1260" height="203" key="GridCell.Tab.0.bottom" timestamp="1614481122322">
+    <state x="421" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1614590089876" />
+    <state width="1260" height="203" key="GridCell.Tab.0.bottom" timestamp="1614655476234">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1614481122322" />
-    <state width="1260" height="203" key="GridCell.Tab.0.center" timestamp="1614481122322">
+    <state width="1260" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1614655476234" />
+    <state width="1260" height="203" key="GridCell.Tab.0.center" timestamp="1614655476234">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1614481122322" />
-    <state width="1260" height="203" key="GridCell.Tab.0.left" timestamp="1614481122322">
+    <state width="1260" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1614655476234" />
+    <state width="1260" height="203" key="GridCell.Tab.0.left" timestamp="1614655476234">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1614481122322" />
-    <state width="1260" height="203" key="GridCell.Tab.0.right" timestamp="1614481122322">
+    <state width="1260" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1614655476234" />
+    <state width="1260" height="203" key="GridCell.Tab.0.right" timestamp="1614655476234">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1614481122322" />
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1614481110606">
+    <state width="1260" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1614655476234" />
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1614655438928">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1614481110606" />
-    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1614481110606">
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1614655438928" />
+    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1614655438928">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1614481110606" />
-    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1614481110606">
+    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1614655438928" />
+    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1614655438928">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1614481110606" />
-    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1614481110606">
+    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1614655438928" />
+    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1614655438928">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1614481110606" />
+    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1614655438928" />
     <state x="142" y="45" key="SettingsEditor" timestamp="1613891533458">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="142" y="45" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1613891533458" />
-    <state x="308" y="127" width="672" height="678" key="search.everywhere.popup" timestamp="1614480753207">
+    <state x="309" y="128" width="672" height="678" key="search.everywhere.popup" timestamp="1614654866463">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="308" y="127" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1614480753207" />
+    <state x="309" y="128" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1614654866463" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
