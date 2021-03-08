@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="添加304">
-      <change afterPath="$PROJECT_DIR$/LeetCode/354.py" afterDir="false" />
+    <list default="true" id="f92c141b-4574-4d18-84a9-3187cd48c8b0" name="Default Changelist" comment="添加354">
+      <change afterPath="$PROJECT_DIR$/LeetCode/132.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <recent name="E:\Language\Python\LeetCode\offer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.354">
+  <component name="RunManager" selected="Python.132">
     <configuration name="1052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1438" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="132" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/1438.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/132.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.132" />
         <item itemvalue="Python.354" />
         <item itemvalue="Python.304" />
         <item itemvalue="Python.896" />
         <item itemvalue="Python.1052" />
-        <item itemvalue="Python.1438" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614655668128</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加354">
+      <created>1614860446975</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614860446975</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,45 +260,54 @@
     <MESSAGE value="添加896" />
     <MESSAGE value="添加303" />
     <MESSAGE value="添加304" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加304" />
+    <MESSAGE value="添加354" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加354" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1614669263633">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="421" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1614669263633" />
-    <state width="1260" height="252" key="GridCell.Tab.0.bottom" timestamp="1614860434608">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.bottom" timestamp="1615176450007">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1614860434608" />
-    <state width="1260" height="252" key="GridCell.Tab.0.center" timestamp="1614860434608">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1615176450007" />
+    <state width="2539" height="413" key="GridCell.Tab.0.center" timestamp="1615176450007">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1614860434608" />
-    <state width="1260" height="252" key="GridCell.Tab.0.left" timestamp="1614860434608">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1615176450007" />
+    <state width="2539" height="413" key="GridCell.Tab.0.left" timestamp="1615176450007">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1614860434608" />
-    <state width="1260" height="252" key="GridCell.Tab.0.right" timestamp="1614860434608">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1615176450007" />
+    <state width="2539" height="413" key="GridCell.Tab.0.right" timestamp="1615176450007">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1614860434608" />
-    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1614860434609">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="413" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1615176450007" />
+    <state width="2539" height="508" key="GridCell.Tab.1.bottom" timestamp="1615174729359">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1614860434609" />
-    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1614860434609">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="508" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1615174729359" />
+    <state width="2539" height="508" key="GridCell.Tab.1.center" timestamp="1615174729359">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1614860434609" />
-    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1614860434609">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="508" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1615174729359" />
+    <state width="2539" height="508" key="GridCell.Tab.1.left" timestamp="1615174729359">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1614860434609" />
-    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1614860434609">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="2539" height="508" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1615174729359" />
+    <state width="2539" height="508" key="GridCell.Tab.1.right" timestamp="1615174729359">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1614860434609" />
+    <state width="2539" height="508" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1615174729359" />
     <state x="142" y="45" key="SettingsEditor" timestamp="1613891533458">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
